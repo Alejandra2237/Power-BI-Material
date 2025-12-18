@@ -60,7 +60,7 @@ body{
     justify-content: space-around
 }
 #id img{
-    background-image: url('images/background.png');
+    background-image: url('images/PBI.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
